@@ -1,6 +1,6 @@
 # Javascript_wikipedia_viewer
 
-[freecodecamp/build-a-wikipedia-viewer] (https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer)
+[freecodecamp/build-a-wikipedia-viewer](https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer)
 
 ![Screenshot](https://i.imgur.com/fL5oDLP.jpg)
 
