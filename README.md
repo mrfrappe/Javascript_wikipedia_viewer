@@ -4,10 +4,10 @@
 
 ![Screenshot](https://i.imgur.com/fL5oDLP.jpg)
 
-    Fulfill the below user stories. Use whichever libraries or APIs you need. Give it your own personal style.
-    User Story: I can search Wikipedia entries in a search box and see the resulting Wikipedia entries.
-    User Story: I can click a button to see a random Wikipedia entry.
-    Hint: Here's an entry on using Wikipedia's API: https://www.mediawiki.org/wiki/API:Main_page.
+    1. Fulfill the below user stories. Use whichever libraries or APIs you need. Give it your own personal style.
+    2. User Story: I can search Wikipedia entries in a search box and see the resulting Wikipedia entries.
+    3. User Story: I can click a button to see a random Wikipedia entry.
+    4 .Hint: Here's an entry on using Wikipedia's API: https://www.mediawiki.org/wiki/API:Main_page.
 
 
 ## Built With
